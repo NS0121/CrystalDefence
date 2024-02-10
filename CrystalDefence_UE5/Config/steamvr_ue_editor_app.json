@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.crystaldefence_ue5-16682836.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/tech/Documents/GitHub/CrystalDefence_UE5/CrystalDefence_UE5/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "CrystalDefence_UE5-16682836 [UE Editor]"
+				}
+			}
+		}
+	]
+}

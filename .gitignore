@@ -72,3 +72,14 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+CrystalDefence/.vs
+CrystalDefence/Binaries
+CrystalDefence/Saved
+CrystalDefence/Intermediate/AssetRegistryCache
+CrystalDefence/Intermediate/Build
+CrystalDefence/Intermediate/Config
+CrystalDefence/Intermediate/ReimportCache
+CrystalDefence/Intermediate/ShaderAutogen
+CrystalDefence/Intermediate/CachedAssetRegistry.bin
